@@ -1,7 +1,8 @@
 import "./App.css";
+import DogContainer from "./containers/DogContainer";
 
 function App() {
-    return <h1>Doggo Browser</h1>;
+    return <DogContainer />;
 }
 
 export default App;
