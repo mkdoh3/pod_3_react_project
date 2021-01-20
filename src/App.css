@@ -1,6 +1,17 @@
 .container {
-    width: 60vw;
+    width: 90vw;
     margin: 30px auto;
     text-align: center;
     color: rgb(48, 48, 200);
+}
+
+.like-button {
+    display: block;
+    margin: 10px auto;
+}
+
+.image-container {
+    display: inline-block;
+    width: 150px;
+    margin: 20px;
 }
